@@ -1,8 +1,12 @@
 # Credit-Card-Default-Prediction-Project-Pwskills
 "In this repository, you'll find my end-to-end machine learning project focused on predicting credit card defaults. The project includes data preprocessing, model training, evaluation, and deployment using Streamlit. Feel free to explore the code, contribute, and use the project for your own analysis and learning purposes."
 
-- [Project_Link] ( Network URL: http://192.168.43.192:8501)
-                  (Local URL: http://localhost:8501)
+- [Project_Link-1] https://credit-card-default-prediction-project-by-mohit.streamlit.app/
+
+- [Project_Link-2] https://credit-card-default-prediction-project.onrender.com
+
+
+  
 
 - [LinkedIn] (https://www.linkedin.com/in/mohit-maheshwari-84413724a)
   
@@ -64,7 +68,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Mohit Maheshwari Email-mohitm645@gmail.com
+Mohit Maheshwari Email- mohitm645@gmail.com
 
 
 ## Acknowledgements
